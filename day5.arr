@@ -28,4 +28,4 @@ fun choose-outfit(tempin :: Number) -> String:
   doc: "takes temperature input and creates outfit based on weather"
     add-glasses(choose-hat(tempin))
 end
-  
+
